@@ -3,4 +3,4 @@
 - 🔭 Working on Music Information Retrieval field 🎶
 - 💬 Ask me anything related to my dataset and research.
 - 📫 contact me on: christoferjulio3@gmail.com | christoferjulio3@iis.sinica.edu.tw 
-- 😄 Love Language: Python 3.7; Now starting C+
+- 😄 Love Language: Python 3
